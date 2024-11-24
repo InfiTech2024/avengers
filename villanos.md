@@ -1,5 +1,4 @@
 # Villanos 
 
 * Dr. Doom
-* Red Skull
-* Dr. Gómez
+* Capital America
